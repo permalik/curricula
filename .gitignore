@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# JetBrains
+.idea
+
+# VSCode
+.vscode
+
+# Mac
+.DSStore
+
+# Build
+build/
+
+# Nix Build
+/result
+
+.ccls-cache/
